@@ -1,12 +1,30 @@
-## Hi there 👋
+# <p style="text-align: center">The Hibou PST</p>
 
-<!--
+<b>Drone recognition and localization system</b>
 
-**Here are some ideas to get you started:**
+<br/>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<img src="https://avatars.githubusercontent.com/u/232561603?s=200&v=4" alt="The project's logo" style="height: auto; border-radius: 10px; display: block; margin: auto;" />
+
+<br/>
+
+[https://pst4hibou.github.io/documentation/](https://pst4hibou.github.io/documentation/)
+
+## What is the Hibou PST? :student:
+
+<p style="text-align: justify;">
+The Hibou PST (PST stands for "Perception System for Threats") is a drone recognition and localization system developed. It is designed to detect and localize drones in real-time, using a combination of audio and video data.  </p>
+
+:helicopter:
+
+## Features
+
+- :rocket: Real-time drone detection and localization
+- :camera: Multi-sensor fusion (audio and video)
+- :globe_with_meridians: User-friendly interface
+- :open_file_folder: Open-source and customizable
+- :gear: Scalable architecture for future enhancements
+
+## Installation
+
+For installation instructions, please refer to the [Installation Guide](https://pst4hibou.github.io/documentation/guide/installation/).
