@@ -1,4 +1,4 @@
-# <p style="text-align: center">The Hibou PST</p>
+# <p style="text-align: center">The Hibou Project</p>
 
 <b>Drone recognition and localization system</b>
 
@@ -10,12 +10,10 @@
 
 [documentation](https://pst4hibou.github.io/documentation/)
 
-## What is the Hibou PST? :student:
+## What is Hibou ? :student:
 
 <p style="text-align: justify;">
-The Hibou PST is a drone recognition and localization system developed. It is designed to detect and localize drones in real-time, using a combination of audio and video data.  </p>
-
-:helicopter:
+The Hibou Project is a drone recognition and localization system developed. It is designed to detect and localize drones in real-time, using a combination of audio and video data.  </p>
 
 ## Features
 
@@ -28,3 +26,7 @@ The Hibou PST is a drone recognition and localization system developed. It is de
 ## Installation
 
 For installation instructions, please refer to the [Installation Guide](https://pst4hibou.github.io/documentation/guide/build-from-source/build-Hibou-Server.html).
+
+## Get in touch
+
+[<img src="https://upload.wikimedia.org/wikipedia/fr/thumb/9/98/Discord_logo.svg/langfr-330px-Discord_logo.svg.png" width="100" height=auto alt="Our discord"/>](https://discord.gg/stvp6wrCTP)
