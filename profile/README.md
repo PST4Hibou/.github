@@ -8,12 +8,12 @@
 
 <br/>
 
-[https://pst4hibou.github.io/documentation/](https://pst4hibou.github.io/documentation/)
+[documentation](https://pst4hibou.github.io/documentation/)
 
 ## What is the Hibou PST? :student:
 
 <p style="text-align: justify;">
-The Hibou PST (PST stands for "Perception System for Threats") is a drone recognition and localization system developed. It is designed to detect and localize drones in real-time, using a combination of audio and video data.  </p>
+The Hibou PST is a drone recognition and localization system developed. It is designed to detect and localize drones in real-time, using a combination of audio and video data.  </p>
 
 :helicopter:
 
@@ -27,4 +27,4 @@ The Hibou PST (PST stands for "Perception System for Threats") is a drone recogn
 
 ## Installation
 
-For installation instructions, please refer to the [Installation Guide](https://pst4hibou.github.io/documentation/guide/installation/).
+For installation instructions, please refer to the [Installation Guide](https://pst4hibou.github.io/documentation/guide/build-from-source/build-Hibou-Server.html).
